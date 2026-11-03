@@ -34,9 +34,21 @@ Instead of focusing exclusively on heavy hardware benchmarks, this project condu
 
 * **Project Proposal (Overleaf):** [Overleaf Link](https://www.overleaf.com/project/6ac51034d83f597ac925947d)
 
-### Key Academic References
-* L. Mosesso, N. Maudet, E. Nano, T. Thibault, and A. Tabard, *"Obsolescence Paths: living with aging devices,"* in *Proc. Int. Conf. ICT for Sustainability (ICT4S)*, Rennes, France, 2023, pp. 11–21.
-* *"Unplanned obsolescence: Hardware and software after collapse"*, Academic Literature Reference, 2023.
+---
+
+### 📚 Research Papers to Read
+
+1. **Jang, E., Johnson, M., Burnell, E., & Heimerl, K.** (2017). *Unplanned obsolescence: Hardware and software after collapse*. In *Proceedings of the 2017 Workshop on Computing Within Limits* (pp. 93–101).
+2. **Chiboora, T. H., Chacha, L., Byagutangaza, T., & Gueye, A.** (2023). *Evaluating mobile banking application security posture using the OWASP's MASVS framework*. In *Proceedings of the 6th ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies* (pp. 99–106).
+3. **Mosesso, L., Maudet, N., Nano, E., Thibault, T., & Tabard, A.** (2023). *Obsolescence Paths: living with aging devices*. In *2023 International Conference on ICT for Sustainability (ICT4S)* (pp. 13–23). IEEE.
+4. **Vats, T., Sailaja, N., & Anselmo Polido Lopes, F.** (2024). *Exploration of user perspectives around software and data-related challenges associated with IoT repair and maintenance against obsolescence*. In *Proceedings of the 13th Nordic Conference on Human-Computer Interaction* (pp. 1–17).
+5. **Adewoyin, O., Awoyemi, J. O., Ayogu, B. A., Ayo-Ajayi, I., & Olagunju, M.** (2025). *Implementation of Android 14 Features on the Google Pixel 3 Through Custom ROM Development*. *Journal of Sustainable Technology*, 14(2).
+6. **Thiyagarajan, G., Bist, V., & Nayak, P.** (2025). *The hidden dangers of outdated software: A cyber security perspective*. *arXiv preprint* arXiv:2505.13922.
+7. **Boretti, A.** (2026). *Challenging planned obsolescence: the Windows 10 end-of-life crisis and the case for Linux-based hardware repurposing as a sustainable e-waste mitigation strategy*. *Journal of Material Cycles and Waste Management*, 1–10. Springer.
+8. **Gaudissart, A.** (2026). *Right to repair and anti-obsolescence*.
+9. **Larsson, S.** (2026). *Why Good Products Go Bad*.
+10. **Nano, E.** (2026). *Software obsolescence: analysis and remediation strategies* (Doctoral dissertation). Lyon 1 Claude Bernard Université.
+
 
 ---
 
