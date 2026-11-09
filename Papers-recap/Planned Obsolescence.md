@@ -1,0 +1,3 @@
+# Planned Obsolescence
+
+This article introduced the concept of Functional obsolescence that is the core objectives of our project. It analyses the correlation between several obsolesence factors and the lifespan of devices. It explaines that regarding functional obsolesence, more people are used to information technologies and more they can cope with small issues while they are not too important. This factor is less pronounced for people with lesser knowledg of technical sciences.
